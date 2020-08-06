@@ -19,7 +19,8 @@
     <li>Getting ready for the start of another busy school year
   </ul>
   <br />
-  <i class="fab fa-windows"></i>
+  <img
+  <i class="fab fa-windows"></i> />
   <i class="fas fa-database"></i>
   <i class="fas fa-server"></i>
   <i class="fas fa-code"></i>
