@@ -19,13 +19,14 @@
     <li>Getting ready for the start of another busy school year
   </ul>
   <br />
+  [html.png]
   
-  <i class="fab fa-windows"></i> 
-  <i class="fas fa-database"></i>
-  <i class="fas fa-server"></i>
-  <i class="fas fa-code"></i>
-  <i class="fab fa-java"></i>
-  <i class="fab fa-python"></i>
+  <h3>
+    Image Credits in order of display
+  </h3>
+  <ul>
+  <li>Icons made by <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Kiranshastry</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></li>
+  </ul
 </html>
 <!--
 **ab-80/ab-80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
