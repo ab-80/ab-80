@@ -20,7 +20,7 @@
   </ul>
   <br />
   
-  [![github](https://github.com/ab-80/ab-80/blob/master/html.png)]
+  ![github](https://github.com/ab-80/ab-80/blob/master/html.png)
   
   <h3>
     Image Credits in order of display
