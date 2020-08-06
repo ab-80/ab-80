@@ -1,11 +1,19 @@
 <html>
   <h2>
+    Who I am...
+  </h2>
+  <ul>
+    <li>An upperclassman university student studying Computer Science</li>
+    <li>A full-stack developer with experience in multiple back-end frameworks and a keen interest in UI/UX design</li>
+    <li>An active learner who enjoys broadening his skill set
+  </ul>
+  <h2>
     What I'm up to...
   </h2>
   <ul>
     <li>Making solid progress on Visula (my stock-evaluating web scraper site)</li>
     <li>Starting the development of a cloud business management system for entrepreneurs called Raxu</li>
-    <li>Getting ready for the start of the school year
+    <li>Getting ready for the start of another busy school year
   </ul>
 </html>
 <!--
