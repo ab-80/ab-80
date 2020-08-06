@@ -27,8 +27,16 @@
     <img src="https://user-images.githubusercontent.com/63623441/89577602-8dd9a880-d7f6-11ea-8280-b76036a4fdda.png" height="70" width="70" />
     <img src="https://user-images.githubusercontent.com/63623441/89578281-84047500-d7f7-11ea-9f2b-a07a8a3359f4.png" height="70" width="70" />
     <img src="https://user-images.githubusercontent.com/63623441/89578690-2886b700-d7f8-11ea-95e5-3f1aa989a0ca.png" height="70" width="70" />
-
   </div>
+  
+  <h2>
+    Things I like...
+  </h2>
+  <ul>
+  <li>Reading about sports psychology, business strategies, and other people's software projects</li>
+  <li>Working out and playing basketball</li>
+  <li>Sleeping in my freetime</li>
+  </ul>
   
   <h3>
     Image Credits in order from left to right
