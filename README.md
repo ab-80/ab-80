@@ -7,7 +7,7 @@
   </h2>
   <ul>
     <li>Third-year university student studying Computer Science</li>
-    <li>A full-stack developer with experience in multiple back-end frameworks, local and cloud databases, and a keen interest in UI/UX design</li>
+    <li>A developer with experience in multiple back-end frameworks, local and cloud databases, and a keen interest in UI/UX design</li>
     <li>An active learner who is most interested in the finance, health care, and information technology sectors</li>
   </ul>
   <h2>
