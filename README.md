@@ -1,8 +1,12 @@
-### Hi there 👋
 <html>
   <h2>
-    Test 2
+    What I'm up to...
   </h2>
+  <ul>
+    <li>Making solid progress on Visula (my stock-evaluating web scraper site)</li>
+    <li>Starting the development of a cloud business management system for entrepreneurs called Raxu</li>
+    <li>Getting ready for the start of the school year
+  </ul>
 </html>
 <!--
 **ab-80/ab-80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
