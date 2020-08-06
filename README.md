@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   </head>
   <h2>
     Who I am...
@@ -19,8 +19,8 @@
     <li>Getting ready for the start of another busy school year
   </ul>
   <br />
-  <img
-  <i class="fab fa-windows"></i> />
+  
+  <i class="fab fa-windows"></i> 
   <i class="fas fa-database"></i>
   <i class="fas fa-server"></i>
   <i class="fas fa-code"></i>
