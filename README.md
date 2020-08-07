@@ -39,7 +39,7 @@
   <li>Sleeping in my freetime</li>
   </ul>
   
-  <br /><br /><br /><br />
+  <br /><br /><br /><br /><br>
   
   <h3>
     Image Credits in order from left to right
