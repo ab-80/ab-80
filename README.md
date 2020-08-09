@@ -25,7 +25,7 @@
     What I'm up to...
   </h2>
   <ul>
-    <li>Making solid progress on Visula (my stock-evaluating web scraper site)</li>
+    <li>Making solid progress on Visula (my stock-evaluating web scraper site).  See the code <a href="https://github.com/ab-80/Visula">here</a></li>
     <li>Starting the development of Raxu, a cloud business management system for entrepreneurs</li>
     <li>Getting ready for the start of another busy school year
   </ul>
