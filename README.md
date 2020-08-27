@@ -36,7 +36,7 @@
   <ul>
   <li>Reading about sports psychology, business strategies, and other people's software projects</li>
   <li>Working out and playing basketball</li>
-  <li>Sleeping in my freetime</li>
+  <li>Investing in stocks</li>
   </ul>
   
   <br /><br /><br /><br /><br>
