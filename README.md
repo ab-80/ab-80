@@ -25,8 +25,7 @@
     What I'm up to...
   </h2>
   <ul>
-    <li>Making solid progress on Visula (my stock-evaluating web scraper site).  See the code <a href="https://github.com/ab-80/Visula">here</a></li>
-    <li>Starting the development of my own <a href="https://github.com/ab-80/Editor">code editor<a>, language and interpreter, and database engine </li>
+    <li>Starting the development of my own <a href="https://github.com/ab-80/Editor">text editor<a>, <a href="https://github.com/ab-80/Chainlink"> scripting language and interpreter<a>, and database engine </li>
     <li>Getting ready for the start of another busy school year
   </ul>
   
