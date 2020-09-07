@@ -30,12 +30,6 @@
   <li>Investing in stocks</li>
   </ul>
   
-  <br /><br /><br /><br /><br>
-  
-  <h3>
-    Image Credits in order from left to right
-  </h3>
-
 </html>
 <!--
 **ab-80/ab-80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
