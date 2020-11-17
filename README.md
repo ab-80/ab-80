@@ -17,8 +17,8 @@
     What I'm up to...
   </h2>
   <ul>
-    <li>Starting the development of an app <a href="https://github.com/ab-80/Raxu">Raxu<a>, <a href="https://github.com/ab-80/Chainlink"> scripting language and interpreter<a>, and database engine </li>
-    <li>Getting ready for the start of another busy school year
+    <li>Starting the development of an ios app, <a href="https://github.com/ab-80/Raxu">Raxu<a>, and making big improvements on the newly-seployed <a href="https://github.com/ab-80/VisulaSite"> Visula <a></li>
+    <li>In the middle of another busy school year
   </ul>
   
   <h2>
