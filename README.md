@@ -29,6 +29,9 @@
   <li>Working out and playing basketball</li>
   <li>Investing in stocks</li>
   </ul>
+  <br/>
+  <br/>
+  Contact me at andrewbergie10@gmail.com
   
 </html>
 <!--
