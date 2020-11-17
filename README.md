@@ -17,7 +17,7 @@
     What I'm up to...
   </h2>
   <ul>
-    <li>Starting the development of my own <a href="https://github.com/ab-80/Editor">text editor<a>, <a href="https://github.com/ab-80/Chainlink"> scripting language and interpreter<a>, and database engine </li>
+    <li>Starting the development of an app <a href="https://github.com/ab-80/Raxu">Raxu<a>, <a href="https://github.com/ab-80/Chainlink"> scripting language and interpreter<a>, and database engine </li>
     <li>Getting ready for the start of another busy school year
   </ul>
   
