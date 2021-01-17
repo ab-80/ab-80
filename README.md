@@ -31,7 +31,7 @@
   </ul>
   <br/>
   <br/>
-  View my portfolio at <a parent.location="www.ab-80.com">ab-80.com</a>
+  View my portfolio at <a href="https://www.ab-80.com/">ab-80.com</a>
   <br />
   Contact me at andrewbergie10@gmail.com
   
