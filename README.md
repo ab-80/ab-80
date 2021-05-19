@@ -10,15 +10,14 @@
   </h2>
   <ul>
     <li>Third-year university student studying Computer Science</li>
-    <li>A developer with experience in multiple back-end frameworks, local and cloud databases, and a keen interest in UI/UX design</li>
+    <li>A developer with experience in multiple back-end frameworks, local and cloud databases, and automation scripts</li>
     <li>An active learner who is most interested in the finance, health care, and information technology sectors</li>
   </ul>
   <h2>
     What I'm up to...
   </h2>
   <ul>
-    <li>Starting the development of an iOS app, <a href="https://github.com/ab-80/Raxu">Raxu<a>, and making big improvements on the newly-deployed <a href="https://github.com/ab-80/VisulaSite"> Visula <a></li>
-    <li>In the middle of another busy school year
+    <li>Starting the development of an Azure API with Jenkins Integration, and finishing up my bachelors degree!
   </ul>
   
   <h2>
